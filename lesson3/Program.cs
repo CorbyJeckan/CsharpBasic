@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+//практическую работу номер 3 выполню до 16 марта 2022, извините...
+
+
+
